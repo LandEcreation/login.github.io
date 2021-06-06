@@ -1,0 +1,110 @@
+body{
+margin: 0;
+padding: 0;
+}
+h1{
+
+
+}
+
+
+.heading1{
+
+
+}
+/*Alreadyhavean account */
+.pf{
+font-size: 15px;
+font-weight: bold;
+margin-bottom: 20px;
+}
+
+#create{
+color:white;
+margin-left: 150px;
+position: absolute;
+font-size: 15px;
+border: 2px solid white;
+border-radius: 100%;
+padding: 5px;
+margin-top: 5px;
+}
+
+#create:hover{
+color: blue;
+}
+.top-container{
+width: 400px;
+height: 800px;
+text-align: center;
+border-right-color: Blue;
+border-right-style: groove;
+border-left-color: blue;
+border-left-style: groove;
+border-width: thick;
+border-top-right-radius: 2px;
+border-radius: 25px;
+color:black;
+font-size: 25px;
+font-weight: bold;
+font-family: sans-serif;
+border-bottom-style: inset;
+border-bottom-color:grey;
+border-top-style: ridge;
+border-top-color: red;
+background-color: black;
+margin:auto;
+}
+.form{
+border: 1px solid black;
+padding: 5px;
+margin-top: 10px;
+position:relative;
+border-radius: 0px;
+background-color: lightblue;
+}
+
+input[type=text] {
+border-radius:20px;
+width: auto;
+
+}
+
+
+input[type=password] {
+border-radius: 20px;
+width: auto;
+
+}
+input[type=text]:hover{
+background-color: #ccc;
+
+}
+
+input [type=submit]:hover{
+background-color: white;
+border-radius: 10px;
+
+}
+
+/*for icon */
+
+.icon{
+  padding: 5px 25PX;
+}
+.far:hover{
+  background-color:#ccc;
+  border-radius: 20px;
+}
+.fa-angle-left{
+margin-left: 20px;
+}
+.fas:hover{
+background-color:#ccc;
+border-radius: 20px;
+}
+
+.fal:hover{
+background-color:#ccc;
+border-radius: 20px;
+}
